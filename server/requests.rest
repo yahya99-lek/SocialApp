@@ -1,0 +1,12 @@
+POST: http://localhost:3001/auth/login
+    
+
+
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0OGEzMzJmNmJmNWI3MTA3ZWI2ZjNiYiIsImlhdCI6MTY4OTk1MzEzMH0.AFMmUJOPBxAlSVorXwmf8Nkksu3BAPu94BkOBHJ599s` 
+Content-Type: application/json
+
+{
+    "email" : "yahya.lek99@gmail.com",
+    "password" : "yahya123"
+}
+
